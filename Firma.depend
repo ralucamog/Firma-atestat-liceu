@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651593593 source:d:\codeblocks projects\firma\firma\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1651597193 source:c:\users\mogil\desktop\firma\firma\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
