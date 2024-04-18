@@ -1,6 +1,6 @@
 # Firma-atestat-liceu-2022
-Atestat liceu
-O firmă care se ocupă cu materialele de construcții are nevoie de un program care să îi ajute la gestionarea mărfurilor. În această direcție am realizat următoarele două fișiere pe care le pot folosi: • Fișierul BDD.in: lista produselor; • Fișierul main.cpp: codul sursa al aplicației. Funcționalitatea programului Datele de intrare sunt preluate din fișierul BDD.in. La o primă rulare a programului, utilizatorul este întâmpinat de un meniu de opțiuni:
+
+"Firmă" este o aplicație în C++ care se ocupă cu sortarea și inventarierea materialelor de construcții a unei firme și ajută la gestionarea acestora. În această direcție am realizat următoarele două fișiere pe care le pot folosi: • Fișierul BDD.in: lista produselor; • Fișierul main.cpp: codul sursa al aplicației. Funcționalitatea programului Datele de intrare sunt preluate din fișierul BDD.in. La o primă rulare a programului, utilizatorul este întâmpinat de un meniu de opțiuni:
 
 • Funcția pentru ștergerea din baza de date: se realizează prin introducerea unui număr de cod pentru produs. După executarea cu succes se afișează din nou lista cu produse actualizată.
 
